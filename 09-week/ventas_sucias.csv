@@ -1,0 +1,21 @@
+id_venta,id_cliente,producto,categoria,canal,fecha,cantidad,precio_unitario,total
+1,101,Celular Galaxy A54,Celular,Online,2024-11-24,1,$1.200.000,1200000
+2,102, Computador Portatil HP ,computador,Tienda,24/11/2024,1,2500000,2500000
+3,103,Televisor Smart 50',TV,online,2024-11-25,2,1800000,3600000
+4,104,Audifonos Bluetooth,accesorio,Tienda,2024-11-25,3,,180000
+5,105,Cargador USB-C,Accesorio,Online,25/11/2024,5,25000,125000
+6,106,Celular iPhone 13,celular,tienda,2024-11-26,1,3200000,3200000
+7,,Mouse Inalambrico,Periferico,Online,2024-11-26,2,45000,90000
+8,107,Teclado Mecanico,periferico,Tienda,Nov 26 2024,1,,150000
+9,108,Televisor Smart 50',Television,Online,2024-11-27,1,1800000,1800000
+9,108,Televisor Smart 50',Television,Online,2024-11-27,1,1800000,1800000
+10,109,Computador Portatil HP,Computador,tienda,2024-11-27,1,2500000.0,2500000
+11,110,Celular Galaxy A54,Celular,Online,28/11/2024,2,1200000,2400000
+12,111,Audifonos Bluetooth,Accesorio,Online,2024-11-28,,15000,
+13,112,Mouse Inalambrico,periferico,Tienda,2024-11-29,4,45000,180000
+14,113,Cargador USB-C,accesorio,online,2024-11-29,10,25000,250000
+15,,Teclado Mecanico,Periferico,Tienda,2024-11-30,2,75000,150000
+16,114,Celular iPhone 13,Celular,online,2024-11-30,1,3200000,3200000
+16,114,Celular iPhone 13,Celular,online,2024-11-30,1,3200000,3200000
+17,115,Televisor Smart 50',tv,Tienda,01/12/2024,1,1800000,1800000
+18,116, Mouse Inalambrico,Periferico,Online,2024-12-01,3,45000,135000
